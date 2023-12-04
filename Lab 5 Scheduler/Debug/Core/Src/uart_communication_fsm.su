@@ -1,0 +1,9 @@
+uart_communication_fsm.c:31:6:normal_mode	8	static
+uart_communication_fsm.c:36:6:clearBuffer	16	static
+uart_communication_fsm.c:42:6:clearCommand	16	static
+uart_communication_fsm.c:49:5:end_command	4	static
+uart_communication_fsm.c:55:5:request_command	4	static
+uart_communication_fsm.c:61:6:check_command_data	8	static
+uart_communication_fsm.c:74:6:command_parser_fsm	8	static
+uart_communication_fsm.c:103:6:taskWaitForOK	4	static
+uart_communication_fsm.c:110:6:uart_communication_fsm	8	static
